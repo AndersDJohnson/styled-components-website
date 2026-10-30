@@ -19,7 +19,7 @@
     "precommit": "lint-staged"
   },
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.34.0",
     "babel-plugin-polished": "^1.1.0",
     "babel-plugin-styled-components": "^1.1.7",
     "commonmark": "^0.28.1",
@@ -33,7 +33,7 @@
     "polished": "^1.3.0",
     "preact": "^8.2.1",
     "preact-compat": "^3.16.0",
-    "prismjs": "^1.6.0",
+    "prismjs": "^1.30.0",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-live": "^1.8.0-2",
